@@ -1,0 +1,15 @@
+1. No Action
+Definition:
+  * Messages that are legitimate, expected, and relevant to the recipient.
+
+2. Spam Mail
+Definition:
+  * Messages that are unsolicited and unwanted, usually promotional or irrelevant, but not directly harmful.
+
+3. Malicious Mail
+Definition:
+  * Messages that try to cause harm — by stealing information, spreading viruses, or tricking you into unsafe actions.
+
+4. Warning Mail
+Definition:
+  * Messages that are suspicious or unusual, not outright proven harmful, but raising concern.
